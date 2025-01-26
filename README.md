@@ -1,4 +1,4 @@
-# MATH 104.1: Probabilistic Machine Learning
+# MATH 104.1: Probabilistic Machine Learning I
 
 This is a collection of computer activities and practice exercises for MATH 104.1: Probabilistic Machine Learning, taken during the second semester of SY 2024-2025.
 
